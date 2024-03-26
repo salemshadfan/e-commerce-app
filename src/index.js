@@ -1,3 +1,9 @@
+/** 
+Group Members - UCID
+Kosy Onyejemezi - 30189156
+Shadfan Salem - 30175782
+**/
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
